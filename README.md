@@ -1,0 +1,2 @@
+This simple math quiz game demonstrates fundamental programming concepts such as loops, functions, conditional statements, and user input handling in Python. It can be further enhanced by adding features like a timer for each question, difficulty levels, or a leaderboard to track high scores. Overall, it's a fun and educational way to practice basic arithmetic skills!
+![image](https://github.com/user-attachments/assets/a0459a65-3627-4fd5-b87b-d463db75e0df)
